@@ -6,9 +6,9 @@
 
 # Инструметы
 
-pandas
-matplotlib.pyplot
-seaborn
+- pandas
+- matplotlib.pyplot
+- seaborn
 
 
 
